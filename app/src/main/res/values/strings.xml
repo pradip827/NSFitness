@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NS Fitness</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_beginner">BIg Fragment</string>
+    <string name="fragment_middleware">MID Fragment</string>
+    <string name="fragment_expert">Expert</string>
+
+</resources>
