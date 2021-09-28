@@ -1,0 +1,1653 @@
+{
+  "Days": [
+    {
+      "Day": "Day 1",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 2",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 3",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 4",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 5",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 6",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 7",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 8",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 9",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 10",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 11",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 12",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 13",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 14",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+},
+ {
+      "Day": "Day 15",
+      "work": [
+        {
+          "name": "Squats",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Leg Extension",
+          "Time": "10 mins",
+          "sets": "Each"
+        },
+        {
+          "name": "Calf",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bench press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Chest press",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Peck fly",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Lat pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Seated row",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Close grip pull down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Overhead shoulder",
+          "Time": "2 sets",
+          "sets": "10 Each(Both side)"
+        },
+        {
+          "name": "Front raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Side lateral raise",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Shrugs",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Db bicep curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Cable curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Bicep Hammer curl",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Rope push down",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Tricep Both hand",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "Forearms",
+          "Time": "2 sets",
+          "sets": "10 Each"
+        },
+        {
+          "name": "stretching ",
+          "Time": "10 mins",
+          "sets": ""
+        }
+      ]
+}]
+}
