@@ -36,6 +36,8 @@ public class NS_Login extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                //Checking That  user privided inout or not
                 if(username.getText().toString().equals(""))
                 {
                     Toast.makeText(getApplicationContext(),"Please Enter Your User Name",Toast.LENGTH_SHORT).show();
@@ -44,6 +46,7 @@ public class NS_Login extends AppCompatActivity {
                 {
                     Toast.makeText(getApplicationContext(),"Please Enter Your Password",Toast.LENGTH_SHORT).show();
                 }
+                //compairing the login with pre define data
                 else if(username.getText().toString().equals("admin") && password.getText().toString().equals("nsadmin"))
                 {
                     SharedPreferences.Editor editor = getSharedPreferences("myPref", MODE_PRIVATE).edit();

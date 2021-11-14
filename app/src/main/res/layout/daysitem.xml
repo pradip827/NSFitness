@@ -13,6 +13,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="3dp"
             android:layout_margin="10dp"
+            android:layout_marginBottom="3dp"
             >
             <TextView
                 android:id="@+id/dayno"
@@ -35,6 +36,8 @@
        <androidx.recyclerview.widget.RecyclerView
            android:id="@+id/workrecylear"
            android:layout_margin="10dp"
+           android:layout_marginTop="0dp"
+
 
            android:layout_width="match_parent"
            android:layout_height="match_parent">
